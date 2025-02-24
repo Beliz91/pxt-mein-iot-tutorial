@@ -20,5 +20,8 @@ Ziel 2 ist es...
 * Das Tutorialtool zu beherrschen
 * Eine variable zu benutzen ``||variables:meine Variable 2||`` 
 
+* show.docs/static/tutorial_1/aktuelles_Bild_1.jpg
 
+## Schritt 3
 
+![aktuelles_Bild_1](https://github.com/Beliz91/pxt-mein-iot-tutorial/tree/master/docs/static/tutorial_1/aktuelles_Bild_1.jpg)
