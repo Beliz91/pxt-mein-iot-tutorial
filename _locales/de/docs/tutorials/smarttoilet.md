@@ -9,13 +9,13 @@ sensors=github:Smartfeld/pxt-sensorikAktorikSmartfeld
 Ziel ist es...
 
 * Das Tutorialtool zu beherrschen
-* Eine variable zu benutzen ``||variables:meine Variable``
+* Eine variable zu benutzen ``||variables:meine Variable||``
 
 ## Schritt 2
 
 Ziel 2 ist es...
 
 * Das Tutorialtool zu beherrschen
-* Eine variable zu benutzen ``||variables:meine Variable 2``
+* Eine variable zu benutzen ``||variables:meine Variable 2||``
 
 
