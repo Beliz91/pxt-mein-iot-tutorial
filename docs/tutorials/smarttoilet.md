@@ -22,4 +22,4 @@ Ziel 2 ist es...
 
 ## Schritt 3
 
-[Bild](https://github.com/Beliz91/pxt-mein-iot-tutorial/blob/0a4ddb3e42d8686e17b9bea9ffa92c160791d5de/docs/static/tutorial_1/aktuelles_Bild_1.jpg)
+![Bild](/static/tutorial_1/aktuelles_Bild_1.jpg)
