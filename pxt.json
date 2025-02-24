@@ -10,8 +10,7 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "docs/tutorials/smarttoilet.md",
-        "_locales/de/docs/tutorials/smarttoilet.md"
+        "docs/tutorials/smarttoilet.md"
     ],
     "testFiles": [
         "test.ts"
