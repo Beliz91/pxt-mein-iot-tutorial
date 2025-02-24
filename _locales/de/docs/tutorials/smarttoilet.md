@@ -16,6 +16,6 @@ Ziel ist es...
 Ziel 2 ist es...
 
 * Das Tutorialtool zu beherrschen
-* Eine variable zu benutzen ``||variables:meineVariable2||``
+* Eine variable zu benutzen ``||variable:meineVariable2||``
 
 
